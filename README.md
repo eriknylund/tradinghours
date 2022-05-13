@@ -1,0 +1,2 @@
+# tradinghours
+Bitcoin Trading Hours
